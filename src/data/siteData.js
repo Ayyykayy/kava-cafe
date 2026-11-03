@@ -7,3 +7,9 @@ export const site = {
   maps: 'https://www.google.com/maps/search/?api=1&query=Kava+Cafe+Vijayawada' // TODO: replace with exact place link
 }
 export const links = [['Home', 'home'], ['About', 'about'], ['Experience', 'experience'], ['Menu', 'menu'], ['Gallery', 'gallery'], ['Visit Us', 'visit']]
+export const owner = {
+  name: 'Owner Name',
+  role: 'Founder, Kava Café',
+  quote: 'Write the owner’s own words here.',
+  photo: 'owner'
+}
